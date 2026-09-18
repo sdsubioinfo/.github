@@ -127,11 +127,8 @@ Our laboratory serves as a frontline reference diagnostic center for livestock, 
   Lead Computational Biologist / Software Architect  
   GitHub: [@navduhan](https://github.com/navduhan) • 📧 `duhan27dec@gmail.com`
 
-- **Dr. Jagathiswaran Radhakrishnan** — *Postdoctoral Research Scholar / Computational Virology*
-- **Dipro Sinha** — *Graduate Research Assistant / Machine Learning & Bioinformatics*
-- **Dr. Mohamed H. Selim** — *Diagnostic Pathologist / Virologist*
-- **Dr. Gun Temeeyasen** — *Veterinary Virologist / Molecular Diagnostics*
-- **Dr. Tamer A. Sharafeldin** — *Veterinary Pathologist / Avian Disease Specialist*
+- **Dr. Dipro Sinha** — *Postdoctoral Research Scholar / Machine Learning & Bioinformatics*
+- **Jagathiswaran Radhakrishnan** — *Graduate Research Assistant / Computational Virology*
 
 ---
 
