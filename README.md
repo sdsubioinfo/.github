@@ -38,7 +38,7 @@ We develop computational tools, genomic pipelines, and machine learning models t
 ## 👥 Team
 
 - **Dr. Sunil Mor** — Lead, Molecular Diagnostics & Virology (`sunil.mor@sdstate.edu`)
-- **Dr. Naveen Duhan** — Lead, Bioinformatics & Computational Biology (`duhan27dec@gmail.com`)
+- **Dr. Naveen Duhan** — Lead, Bioinformatics & Computational Biology (`naveen.duhan@sdstate.edu`)
 - **Dr. Dipro Sinha** — Postdoctoral Researcher
 - **Jagathiswaran Radhakrishnan** — Graduate Student
 

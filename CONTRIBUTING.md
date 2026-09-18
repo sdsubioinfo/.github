@@ -63,4 +63,4 @@ We continuously expand our diagnostic pipelines to support emerging veterinary p
 
 For research partnerships, collaborative grant proposals, or sensitive clinical pathogen inquiries:
 - **Dr. Sunil Mor**: `sunil.mor@sdstate.edu`
-- **Dr. Naveen Duhan**: `duhan27dec@gmail.com`
+- **Dr. Naveen Duhan**: `naveen.duhan@sdstate.edu`
