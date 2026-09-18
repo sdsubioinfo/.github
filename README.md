@@ -21,9 +21,10 @@ We develop computational tools, genomic pipelines, and machine learning models t
 
 ## 🔬 Core Focus Areas
 
-- **Pathogen Genomics**: High-throughput whole-genome sequencing (WGS) and metagenomic surveillance of viral and bacterial animal pathogens.
-- **Diagnostic Machine Learning**: Computational algorithms and machine-learning models for rapid pathogen classification and genotyping.
-- **Evolutionary & Codon Usage Analysis**: Investigating codon adaptation, translational selection, and molecular evolution across host species.
+- **Viral Genomics & Omics**
+- **Host-Pathogen Interactions**
+- **Machine Learning & Artificial Intelligence**
+- **Tool & Web Server Development**
 
 ---
 
