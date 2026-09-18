@@ -7,7 +7,7 @@
 **Department of Veterinary and Biomedical Sciences • South Dakota State University**
 
 [![GitHub Organization](https://img.shields.io/badge/GitHub-sdsubioinfo-003366?logo=github&logoColor=white)](https://github.com/sdsubioinfo)
-[![Institution](https://img.shields.io/badge/SDSU-Jackrabbits-003366?labelColor=FFD100&color=003366)](https://www.sdstate.edu/veterinary-biomedical-sciences/animal-disease-research-diagnostic-lab)
+[![Institution](https://img.shields.io/badge/SDSU-South%20Dakota%20State%20University-003366)](https://www.sdstate.edu/animal-disease-research-and-diagnostic-laboratory)
 
 </div>
 
@@ -49,4 +49,4 @@ We develop computational tools, genomic pipelines, and machine learning models t
 Department of Veterinary and Biomedical Sciences  
 South Dakota State University  
 Brookings, SD 57007, USA  
-🌐 [SDSU ADRDL Website](https://www.sdstate.edu/veterinary-biomedical-sciences/animal-disease-research-diagnostic-lab)
+🌐 [SDSU ADRDL Website](https://www.sdstate.edu/animal-disease-research-and-diagnostic-laboratory)
