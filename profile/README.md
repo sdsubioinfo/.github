@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sdsubioinfo/.github/main/assets/banner.svg" alt="SDSU ADRDL Bioinformatics Group" width="100%"/>
+
 
 # SDSU ADRDL Bioinformatics Group
 ### Animal Disease Research and Diagnostic Laboratory (ADRDL)
@@ -25,13 +25,6 @@ We develop computational tools, genomic pipelines, and machine learning models t
 - **Host-Pathogen Interactions**
 - **Machine Learning & Artificial Intelligence**
 - **Tool & Web Server Development**
-
----
-
-## 🛠️ Repositories & Tools
-
-- [**CodonAdaptPy**](https://github.com/sdsubioinfo/CodonAdaptPy) — Standalone Python package for codon usage bias, host adaptation, and molecular evolution analysis.
-- [**ReoGenotyper**](https://github.com/sdsubioinfo/ReoGenotyper) — Alignment-free machine learning package for avian orthoreovirus segment identification and genotype classification.
 
 ---
 
