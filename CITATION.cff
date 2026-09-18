@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use software or diagnostic pipelines from the SDSU ADRDL Bioinformatics Group, please cite as below."
+title: "SDSU ADRDL Bioinformatics & Computational Genomics Ecosystem"
+type: software
+authors:
+  - family-names: Duhan
+    given-names: Naveen
+    affiliation: "Animal Disease Research and Diagnostic Laboratory, South Dakota State University"
+    orcid: "https://orcid.org"
+  - family-names: Radhakrishnan
+    given-names: Jagathiswaran
+    affiliation: "Animal Disease Research and Diagnostic Laboratory, South Dakota State University"
+  - family-names: Sinha
+    given-names: Dipro
+    affiliation: "Animal Disease Research and Diagnostic Laboratory, South Dakota State University"
+  - family-names: Mor
+    given-names: Sunil
+    affiliation: "Animal Disease Research and Diagnostic Laboratory, South Dakota State University"
+repository-code: "https://github.com/sdsubioinfo"
+abstract: >-
+  Computational biology, diagnostic machine learning, and genomic surveillance
+  pipelines developed by the Animal Disease Research and Diagnostic Laboratory
+  (ADRDL) at South Dakota State University.
+keywords:
+  - veterinary genomics
+  - bioinformatics
+  - machine learning
+  - pathogen surveillance
+  - avian orthoreovirus
+  - codon usage
+  - antimicrobial resistance
+license: MIT
